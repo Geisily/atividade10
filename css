@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+}
+
+.left-image {
+    float: left;
+    margin: 0 15px 15px 0;
+    max-width: 300px;
+    border: 1px solid #ddd;
+    padding: 3px;
+}
+
+.right-image {
+    float: right;
+    margin: 0 0 15px 15px;
+    max-width: 300px;
+    border: 1px solid #ddd;
+    padding: 3px;
+}
+
+p {
+    text-align: justify;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
